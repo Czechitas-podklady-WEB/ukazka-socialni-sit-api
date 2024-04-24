@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Petr Pálený",
+    "handle": "palenka",
+    "avatar": "/assets/palenka-avater.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Eva Slezáková",
+    "handle": "slezeva",
+    "avatar": "/assets/slezeva-avater.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Michal Černý",
+    "handle": "cernel",
+    "avatar": "/assets/cernel-avater.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Marek Kratochvíl",
+    "handle": "kratom",
+    "avatar": "/assets/kratom-avater.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Markéta Nová",
+    "handle": "joginka",
+    "avatar": "/assets/joginka-avater.jpg"
+  }
+]
