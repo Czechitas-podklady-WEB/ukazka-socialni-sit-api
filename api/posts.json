@@ -4,6 +4,7 @@
     "userName": "Petr Pálený",
     "userId": 0,
     "userHandle": "palenka",
+    "userAvatar": "/assets/palenka-avatar.jpg",
     "text": "Nový produkt je na světě, třešňovice Baron Hildprandt, to musíte ochutnat! Skvělá chuť a vůně.",
     "likes": 26
   },
@@ -12,6 +13,7 @@
     "userName": "Eva Slezáková",
     "userId": 1,
     "userHandle": "slezeva",
+    "userAvatar": "/assets/slezeva-avatar.jpg",
     "text": "Právě jsem dočetla skvělou knihu Šikmý kostel. Doporučuji všem, kdo mají rádi historické příběhy!",
     "likes": 45
   },
@@ -20,6 +22,7 @@
     "userName": "Petr Pálený",
     "userId": 0,
     "userHandle": "palenka",
+    "userAvatar": "/assets/palenka-avatar.jpg",
     "text": "Zítra začínáme natáčet nový dokument o ochraně životního prostředí. Držte nám palce, bude to náročné! Hlavně se těším na záběry z našeho třešňového sadu.",
     "likes": 68
   },
@@ -28,6 +31,7 @@
     "userName": "Eva Slezáková",
     "userId": 1,
     "userHandle": "slezeva",
+    "userAvatar": "/assets/slezeva-avatar.jpg",
     "text": "Vegetariánství je cesta ke zdraví i šetrnosti k životnímu prostředí. Zvažte to! Když to zvládnu já, zvládnete to i vy a vaše rodina.",
     "likes": 102
   },
@@ -36,6 +40,7 @@
     "userName": "Michal Černý",
     "userId": 2,
     "userHandle": "cernel",
+    "userAvatar": "/assets/cernel-avatar.jpg",
     "text": "Právě jsem se vrátil z úžasné výpravy do Vysokých Tater. Příroda je nádherná a klidná, stojí za to ji ochraňovat!",
     "likes": 77
   },
@@ -44,6 +49,7 @@
     "userName": "Eva Slezáková",
     "userId": 1,
     "userHandle": "slezeva",
+    "userAvatar": "/assets/slezeva-avatar.jpg",
     "text": "Dnes jsem měla skvělý kruhový trénink. Tvrdá práce se vyplatila, dvě kila dole za poslední týden",
     "likes": 91
   },
@@ -52,6 +58,7 @@
     "userName": "Marek Kratochvíl",
     "userId": 3,
     "userHandle": "kratom",
+    "userAvatar": "/assets/kratom-avatar.jpg",
     "text": "Vášnivý debatér přichází na scénu! Kdo má chuť na hlubokou diskusi o genderových stereotypech?",
     "likes": 55
   },
@@ -60,6 +67,7 @@
     "userName": "Markéta Nová",
     "userId": 4,
     "userHandle": "joginka",
+    "userAvatar": "/assets/joginka-avatar.jpg",
     "text": "Nová veganské restaurace u nás v Táboře je prostě skvělá. Určitě ji vyzkoušejte, 100% doporučuji!",
     "likes": 36
   },
@@ -68,6 +76,7 @@
     "userName": "Petr Pálený",
     "userId": 0,
     "userHandle": "palenka",
+    "userAvatar": "/assets/palenka-avatar.jpg",
     "text": "Dnes jsem udělal obrovský krok kupředu ve své kariéře a jsem na sebe hrdý! Penize nejsou všechno, ale pomáhají :)",
     "likes": 63
   },
@@ -76,6 +85,7 @@
     "userName": "Eva Slezáková",
     "userId": 1,
     "userHandle": "slezeva",
+    "userAvatar": "/assets/slezeva-avatar.jpg",
     "text": "Začínám nový kurz výtvarného umění u paní malířky. Těším se na nové výzvy!",
     "likes": 40
   },
@@ -84,6 +94,7 @@
     "userName": "Michal Černý",
     "userId": 2,
     "userHandle": "cernel",
+    "userAvatar": "/assets/cernel-avatar.jpg",
     "text": "Víkendový výlet do přírody byl přesně to, co jsem potřeboval, abych nabral novou energii. Příroda je lék na duši!",
     "likes": 84
   },
@@ -92,6 +103,7 @@
     "userName": "Markéta Nová",
     "userId": 4,
     "userHandle": "joginka",
+    "userAvatar": "/assets/joginka-avatar.jpg",
     "text": "Dnes jsem se naučila vařit veganský guláš! Je lepší, než ten klasický s masem...",
     "likes": 57
   },
@@ -100,6 +112,7 @@
     "userName": "Petr Pálený",
     "userId": 0,
     "userHandle": "palenka",
+    "userAvatar": "/assets/palenka-avatar.jpg",
     "text": "Dnes jsem viděl úžasný slunečný západ. Připomnělo mi to, jak je svět krásný. Štamprle třešňovice Baron Hildprandt k tomu byla třešničkou na dortu!",
     "likes": 73
   },
@@ -108,6 +121,7 @@
     "userName": "Michal Černý",
     "userId": 2,
     "userHandle": "cernel",
+    "userAvatar": "/assets/cernel-avatar.jpg",
     "text": "Mám nového člena rodiny - malého kocoura! Hádám, že bude mít rád ryby...",
     "likes": 96
   },
@@ -116,6 +130,7 @@
     "userName": "Eva Slezáková",
     "userId": 1,
     "userHandle": "slezeva",
+    "userAvatar": "/assets/slezeva-avatar.jpg",
     "text": "Včera jsem se poprvé zúčastnila maratonu. Neuvěřitelný zážitek, tvrdý trénink se vyplatil!",
     "likes": 82
   },
@@ -124,6 +139,7 @@
     "userName": "Petr Pálený",
     "userId": 0,
     "userHandle": "palenka",
+    "userAvatar": "/assets/palenka-avatar.jpg",
     "text": "V dnešní době je důležité být nejen informovaný, ale také kritický. Nenechte se ovlivnit povrchností!. Nějaké gendrové stereotypy mě nezajímají, ale rád se zapojím do debaty o ochraně životního prostředí nebo o pálení třešňovice Baron Hildprandt.",
     "likes": 110
   },
@@ -132,6 +148,7 @@
     "userName": "Michal Černý",
     "userId": 2,
     "userHandle": "cernel",
+    "userAvatar": "/assets/cernel-avatar.jpg",
     "text": "Podporuji místní podnikatele! Nakupuji v malých obchodech a podporuji místní ekonomiku.",
     "likes": 63
   },
@@ -140,6 +157,7 @@
     "userName": "Markéta Nová",
     "userId": 4,
     "userHandle": "joginka",
+    "userAvatar": "/assets/joginka-avatar.jpg",
     "text": "Jóga je můj životní styl. Každé ráno začínám cvičením a meditací. Je to nejlepší způsob, jak začít den! Kdo nemá rád jógu, nemá rád ani třešňovici Baron Hildprandt.",
     "likes": 89
   },
@@ -148,6 +166,7 @@
     "userName": "Petr Pálený",
     "userId": 0,
     "userHandle": "palenka",
+    "userAvatar": "/assets/palenka-avatar.jpg",
     "text": "Začínám nový projekt! Připravte se na inovaci ve světě technologie.",
     "likes": 72
   },
@@ -156,6 +175,7 @@
     "userName": "Eva Slezáková",
     "userId": 1,
     "userHandle": "slezeva",
+    "userAvatar": "/assets/slezeva-avatar.jpg",
     "text": "Dnes jsem dokončila malování obrazu, na kterém jsem pracovala celý měsíce. Jsem na sebe hrdá...",
     "likes": 78
   },
@@ -164,6 +184,7 @@
     "userName": "Marek Kratochvíl",
     "userId": 3,
     "userHandle": "kratom",
+    "userAvatar": "/assets/kratom-avatar.jpg",
     "text": "Každý den je příležitost naučit se něco nového. Nikdy nekončíme s učením! Dnes jsem se naučil 100 nových genderových pronounů. Kdo by to byl řekl, že je to tak jednoduché!",
     "likes": 61
   },
@@ -172,6 +193,7 @@
     "userName": "Markéta Nová",
     "userId": 4,
     "userHandle": "joginka",
+    "userAvatar": "/assets/joginka-avatar.jpg",
     "text": "Dnes jsem na ulici potkala bezdomovce a rozhodla se mu dát jídlo. Malý krok může udělat velký rozdíl!",
     "likes": 94
   },
@@ -180,6 +202,7 @@
     "userName": "Michal Černý",
     "userId": 2,
     "userHandle": "cernel",
+    "userAvatar": "/assets/cernel-avatar.jpg",
     "text": "Výlet do divočiny mě naplnil energií a klidem. Příroda je lék na duši.",
     "likes": 79
   },
@@ -188,6 +211,7 @@
     "userName": "Markéta Nová",
     "userId": 4,
     "userHandle": "joginka",
+    "userAvatar": "/assets/joginka-avatar.jpg",
     "text": "Dnes jsem podpořila charitativní akci na pomoc dětem v nouzi. Každý může udělat něco dobrého!",
     "likes": 101
   },
@@ -196,6 +220,7 @@
     "userName": "Eva Slezáková",
     "userId": 1,
     "userHandle": "slezeva",
+    "userAvatar": "/assets/slezeva-avatar.jpg",
     "text": "Včerejší večer byl plný dobrého jídla a ještě lepších přátel. Život je o chvílích strávených společně.",
     "likes": 87
   },
@@ -204,6 +229,7 @@
     "userName": "Markéta Nová",
     "userId": 4,
     "userHandle": "joginka",
+    "userAvatar": "/assets/joginka-avatar.jpg",
     "text": "Dnes jsem se rozhodla začít s pravidelným cvičením jógy. Těším se na pozitivní změny!",
     "likes": 66
   },
@@ -212,6 +238,7 @@
     "userName": "Marek Kratochvíl",
     "userId": 3,
     "userHandle": "kratom",
+    "userAvatar": "/assets/kratom-avatar.jpg",
     "text": "Zítra se těším na setkání s velmi inspirativním člověkem. Mám pocit, že se můžu od něj hodně naučit! Zajímavé lidi potkávám všude, kde se pohybuji.",
     "likes": 90
   },
@@ -220,6 +247,7 @@
     "userName": "Markéta Nová",
     "userId": 4,
     "userHandle": "joginka",
+    "userAvatar": "/assets/joginka-avatar.jpg",
     "text": "Nová skladba mé oblíbené kapely mě dostala do taneční nálady. Hudba a jógování jsou moje závislosti!",
     "likes": 74
   },
@@ -228,6 +256,7 @@
     "userName": "Marek Kratochvíl",
     "userId": 3,
     "userHandle": "kratom",
+    "userAvatar": "/assets/kratom-avatar.jpg",
     "text": "Dnes jsem poprvé zkusil kolečkové brusle a musím říct, že to byla výzva! Nikdy se nebojte zkoušet nové věci. I když se vám na první pohled zdají nemožné, můžete se překvapit!",
     "likes": 68
   }
